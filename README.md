@@ -12,6 +12,7 @@ By Phuthang Makhupane, Ingrid Hagen, Karen Hompland and Solveig Aune.
 ### OWL-file for testing
 Would you like to test the verbalizer but do not have an OWL-file with Norwegian and SeSotho translations? Look no further! [African Wildlife Ontology](src/main/resources/public/african_wildlife_for_project.owl) is here to help you. 🦒  This ontology is made by our professor Maria Keet. We have added the translations and done some minor changes. You can find the original ontology [here.](http://meteck.org/teaching/OEbook/ontologies/AfricanWildlifeOntology1.owl) 🦁 🐘
 
+
 ## How to build and run
 1. Ensure you have maven installed
 2. Ensure you run (Only the first developer needs to do this): mvn -Nio.takari:maven:wrapper
